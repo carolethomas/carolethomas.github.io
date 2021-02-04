@@ -2,7 +2,7 @@
   "id": "carole",
   "copyright": "Copyright © 2021 [Carole Thomas]. All Rights Reserved.",
   "covers": "carole",
-  "navbarheader": "caroleNavbarHeader.html",
+  "navbarheader": "/header.html",
   "brandlink": "https://www.instagram.com/k.rolerolle/",
   "icon": "/vinyl/svgs/instagram.svg",
   "animated_background": false,
