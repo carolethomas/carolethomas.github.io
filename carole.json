@@ -7,18 +7,19 @@
   "icon": "/vinyl/svgs/instagram.svg",
   "animated_background": false,
   "order": [
-    "evasion",
-    "maison",
-    "promenade",
-    "cambodge",
-    "bretagne",
     "banlieue",
+    "bretagne",
+    "cambodge",
+    "eplucher",
+    "evasion",
     "fred",
-    "sans_titre",
-    "roseraie",
     "garceon",
     "humeur",
-    "eplucher"
+    "lamer",
+    "maison",
+    "promenade",
+    "roseraie",
+    "sans_titre"
   ],
   "songs": {
     "evasion": {
@@ -66,6 +67,10 @@
     "eplucher": {
       "text": "No comment !",
       "link": "https://www.instagram.com/p/CHIZhwYHr9n/"
+    },
+    "lamer": {
+      "text": "La mer qu'on voit danser…",
+      "link": "https://www.instagram.com/p/CLHzGYDJC4i/"
     },
     "qwe": {
       "text": "asd",
