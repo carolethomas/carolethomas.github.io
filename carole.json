@@ -10,6 +10,7 @@
     "banlieue",
     "bretagne",
     "cambodge",
+    "coin", 
     "eplucher",
     "evasion",
     "fred",
@@ -71,6 +72,10 @@
     "lamer": {
       "text": "La mer qu'on voit danser…",
       "link": "https://www.instagram.com/p/CLHzGYDJC4i/"
+    },
+    "coin": {
+      "text": "Un coin de Bretagne (pour changer 😆). Je ne sais pas où c'est - Papier Arches grain fin 20x20 cm.",
+      "link": "https://www.facebook.com/photo?fbid=878949132683069&set=a.537494266828559"
     },
     "qwe": {
       "text": "asd",
