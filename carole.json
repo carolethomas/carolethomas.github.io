@@ -10,7 +10,7 @@
     "banlieue",
     "bretagne",
     "cambodge",
-    "coin", 
+    "coin",
     "eplucher",
     "evasion",
     "fred",
@@ -18,6 +18,7 @@
     "humeur",
     "lamer",
     "maison",
+    "pi_day",
     "promenade",
     "roseraie",
     "sans_titre"
@@ -68,6 +69,10 @@
     "eplucher": {
       "text": "No comment !",
       "link": "https://www.instagram.com/p/CHIZhwYHr9n/"
+    },
+    "pi_day": {
+      "text": "",
+      "link": "https://www.instagram.com/p/CMYEQdtHwgH/"
     },
     "lamer": {
       "text": "La mer qu'on voit danser…",
