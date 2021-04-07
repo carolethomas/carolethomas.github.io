@@ -4,7 +4,7 @@
   "covers": "carole",
   "navbarheader": "/header.html",
   "brandlink": "https://www.instagram.com/k.rolerolle/",
-  "icon": "/instagram.svg",
+  "brandLogo": "/instagram.svg",
   "animated_background": false,
   "order": [
     "banlieue",
@@ -21,69 +21,91 @@
     "pi_day",
     "promenade",
     "roseraie",
+    "haie",
     "sans_titre"
   ],
   "songs": {
     "evasion": {
       "text": "Envie d'évasion, heureusement qu'il y a la peinture pour partir à la mer",
+      "date": "2021-01-26",
       "link": "https://www.instagram.com/p/CKg-Skxn6E-/"
     },
     "maison": {
+      "date": "2021-01-22",
       "link": "https://www.instagram.com/p/CKVpX-knJ4G/"
     },
     "promenade": {
       "text": "Promenade sur les coteaux de Champagne",
+      "date": "2021-01-19",
       "link": "https://www.instagram.com/p/CKO9JlGnhC3/"
     },
     "cambodge": {
       "text": "Encore le Cambodge : besoin d'horizon",
+      "date": "2021-01-08",
       "link": "https://www.instagram.com/p/CJyb_c4n4T1/"
     },
     "bretagne": {
       "text": "Vive la Bretagne",
+      "date": "2021-01-09",
       "link": "https://www.instagram.com/p/CJ1UEidHPr3/"
     },
     "banlieue": {
       "text": "Un petit coin de banlieue en plein ciel. J'aime bien mes petites balades de confinement 😃",
+      "date": "2020-11-14",
       "link": "https://www.instagram.com/p/CHkCGuYHTaw/"
     },
     "fred": {
       "text": "D'après une photo de Fred",
+      "date": "2020-11-10",
       "link": "https://www.instagram.com/p/CHbIQjgnRDQ/"
     },
     "sans_titre": {
+      "date": "2020-10-30",
       "link": "https://www.instagram.com/p/CG-hVNvnLFj/"
     },
     "roseraie": {
       "text": "Parc de la Roseraie - Croquis aquarellé",
+      "date": "2020-10-25",
       "link": "https://www.instagram.com/p/CGyItWKnbFT/"
     },
     "garceon": {
       "text": "Garçon de Café désœuvré",
+      "date": "2020-11-19",
       "link": "https://www.instagram.com/p/CGhAs1znlUh/"
     },
     "humeur": {
       "text": "Humeur du jour : Paris n'est pas une fête 😷",
+      "date": "2020-10-18",
       "link": "https://www.instagram.com/p/CGefNFoHJb6/"
     },
     "eplucher": {
       "text": "No comment !",
+      "date": "2020-11-03",
       "link": "https://www.instagram.com/p/CHIZhwYHr9n/"
     },
     "pi_day": {
       "text": "",
+      "date": "2021-03-14",
       "link": "https://www.instagram.com/p/CMYEQdtHwgH/"
     },
     "lamer": {
       "text": "La mer qu'on voit danser…",
+      "date": "2021-02-10",
       "link": "https://www.instagram.com/p/CLHzGYDJC4i/"
     },
     "coin": {
       "text": "Un coin de Bretagne (pour changer 😆). Je ne sais pas où c'est - Papier Arches grain fin 20x20 cm.",
+      "date": "2021-02-18",
       "link": "https://www.instagram.com/p/CLcFEdRnMaN/"
+    },
+    "haie": {
+      "text": "",
+      "date": "2020-11-06",
+      "link": ""
     },
     "qwe": {
       "text": "asd",
+      "date": "2021-06-11",
       "link": ""
     }
   }
