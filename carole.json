@@ -7,6 +7,7 @@
   "brandLogo": "/instagram.svg",
   "animated_background": false,
   "order": [
+    "vacances",
     "banlieue",
     "bretagne",
     "cambodge",
@@ -102,6 +103,11 @@
       "text": "",
       "date": "2020-11-06",
       "link": ""
+    },
+    "vacances": {
+      "text": "Y'avait longtemps ! Vivement les (vraies) vacances !",
+      "date": "2021-05-27",
+      "link": "https://www.instagram.com/p/CPXe450rVHb/"
     },
     "qwe": {
       "text": "asd",
