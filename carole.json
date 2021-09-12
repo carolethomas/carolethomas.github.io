@@ -7,6 +7,10 @@
   "brandLogo": "/instagram.svg",
   "animated_background": false,
   "order": [
+    "moon",
+    "bigouden",
+    "4ème_vague",
+    "fleurs",
     "vacances",
     "banlieue",
     "bretagne",
@@ -26,6 +30,27 @@
     "sans_titre"
   ],
   "songs": {
+    
+    "moon": {
+      "text": "",
+      "date": "2021-08-16",
+      "link": "https://www.instagram.com/p/CTS1Mins8ik/"
+    },
+    "bigouden": {
+      "text": "Pays Bigouden : pointe de la Torche",
+      "date": "2021-08-16",
+      "link": "https://www.instagram.com/p/CSo0RhYsTza/"
+    },
+    "4ème_vague": {
+      "text": "4ème vague ?",
+      "date": "2021-07-08",
+      "link": "https://www.instagram.com/p/CRD2fxtLhuH/"
+    },
+    "fleurs": {
+      "text": "",
+      "date": "2021-06-21",
+      "link": "https://www.instagram.com/p/CQX_E96rWLD/"
+    },
     "evasion": {
       "text": "Envie d'évasion, heureusement qu'il y a la peinture pour partir à la mer",
       "date": "2021-01-26",
